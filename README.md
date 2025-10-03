@@ -1,4 +1,7 @@
 # Orders-Payments-Ingestion-and-JSON-Flattening
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBuMTJrYTc2dXoyZm5vZjJkZXBvdHM1cDM2MHM0YmZ5aTUzeWhjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PYpe18ZKBBi2fo1vuQ/giphy.gif" width="400" />
+</p>
 
 ## 📌 Overview
 This project implements a **data pipeline** for an E-commerce system.  
